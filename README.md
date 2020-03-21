@@ -1,4 +1,4 @@
-# vuedo
+# Vue-do
 
 ## Project setup
 ```
